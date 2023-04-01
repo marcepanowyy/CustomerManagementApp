@@ -19,7 +19,7 @@ npm install -g json-server
 json-server db.json
 ```
 
-6. Start the app by running the following command:
+6. Start the app by running the following command in your second console:
 
 ```
 npm run start
