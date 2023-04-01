@@ -1,0 +1,132 @@
+{
+  "customers": [
+    {
+      "id": 2,
+      "firstName": "Juan",
+      "lastName": "Garcia",
+      "vatIdNum": "ESB12345678",
+      "address": "Calle Mayor 15, Madrid, Spain",
+      "date": "30 Nov 2020"
+    },
+    {
+      "id": 3,
+      "firstName": "Emily",
+      "lastName": "Nguyen",
+      "vatIdNum": "FR12345678901",
+      "address": "55 Rue de Rivoli, Paris, France",
+      "date": "20 Oct 2022"
+    },
+    {
+      "firstName": "Lars",
+      "lastName": "Jensen",
+      "vatIdNum": "DK87654321",
+      "address": "Sankt Annæ Plads 5, Copenhagen, Denmark",
+      "date": "31 Mar 2023",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "firstName": "Maria",
+      "lastName": "Gonzalez",
+      "vatIdNum": "IT12345678901",
+      "address": "Via Montenapoleone 8, Milan, Italy",
+      "date": "14 Jan 2022"
+    },
+    {
+      "id": 6,
+      "firstName": "Chen",
+      "lastName": "Wei",
+      "vatIdNum": "CN1234567890",
+      "address": "10 Anhua Road, Beijing, China",
+      "date": "2 Sep 2021"
+    },
+    {
+      "id": 7,
+      "firstName": "Olivia",
+      "lastName": "Nguyen",
+      "vatIdNum": "FR12345678901",
+      "address": "3 Rue de la Paix, Paris, France",
+      "date": "7 Sep 2022"
+    },
+    {
+      "id": 8,
+      "firstName": "Liam",
+      "lastName": "Smith",
+      "vatIdNum": "US123456789",
+      "address": "1234 Main Street, New York, USA",
+      "date": "15 May 2021"
+    },
+    {
+      "id": 9,
+      "firstName": "Anita",
+      "lastName": "Patel",
+      "vatIdNum": "IN12345678",
+      "address": "Bandra Kurla Complex, Mumbai, India",
+      "date": "1 Dec 2020"
+    },
+    {
+      "id": 10,
+      "firstName": "Nikolai",
+      "lastName": "Ivanov",
+      "vatIdNum": "RU1234567890",
+      "address": "Komsomolskaya Square, Moscow, Russia",
+      "date": "19 Jul 2022"
+    },
+    {
+      "id": 11,
+      "firstName": "Samantha",
+      "lastName": "Smith",
+      "vatIdNum": "US123456789",
+      "address": "567 Park Avenue, New York, USA",
+      "date": "2 Feb 2022"
+    },
+    {
+      "id": 12,
+      "firstName": "Hiroshi",
+      "lastName": "Sato",
+      "vatIdNum": "JP123456789",
+      "address": "2-2-2 Ginza, Tokyo, Japan",
+      "date": "20 Sep 2021"
+    },
+    {
+      "id": 13,
+      "firstName": "Oliver",
+      "lastName": "Schmidt",
+      "vatIdNum": "DE123456789",
+      "address": "Schlossplatz 1, Berlin, Germany",
+      "date": "10 Jan 2022"
+    },
+    {
+      "id": 14,
+      "firstName": "Marina",
+      "lastName": "Lopez",
+      "vatIdNum": "ESB98765432",
+      "address": "Calle de Alcalá 123, Madrid, Spain",
+      "date": "15 Jul 2021"
+    },
+    {
+      "id": 15,
+      "firstName": "Lucas",
+      "lastName": "Müller",
+      "vatIdNum": "DE987654321",
+      "address": "Münchener Str. 1, Munich, Germany",
+      "date": "5 Mar 2022"
+    },
+    {
+      "id": 16,
+      "firstName": "Isabella",
+      "lastName": "Nguyen",
+      "vatIdNum": "US987654321",
+      "address": "1234 Main Street, San Francisco, USA",
+      "date": "8 Nov 2021"
+    },
+    {
+      "id": 17,
+      "firstName": "Hassan",
+      "lastName": "Ali",
+      "vatIdNum": "AE123456789",
+      "address": "Dubai Silicon Oasis, Dubai, UAE",
+      "date": "19 Feb 2022"
+    }
+  ]
+}
